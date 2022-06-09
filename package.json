@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@alch/alchemy-web3": "^1.4.2",
     "@openzeppelin/contracts": "^4.5.0",
     "@web3-onboard/coinbase": "^2.0.0",
     "@web3-onboard/core": "^2.2.2",
